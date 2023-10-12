@@ -652,3 +652,4 @@ https://www.beecrowd.com.br/judge/pt/profile/479086
 </details>
 <!-- SQL -->
 
+** Desing took from <a href="https://github.com/lucasrmagalhaes/desafios-URI_beecrowd">Lucas Magalhaes</a> **
