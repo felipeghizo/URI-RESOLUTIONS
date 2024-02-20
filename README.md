@@ -234,6 +234,12 @@
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1020.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1045">1045</a></td>
+                <td align="center">Tipos de Triângulos</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1045.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
         </table>
 </details>
 <!-- Java -->
