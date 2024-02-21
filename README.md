@@ -260,7 +260,7 @@
             </tr>
 	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1049">1049</a></td>
-                <td align="center">Animais</td>
+                <td align="center">AnimaL</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1049.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
