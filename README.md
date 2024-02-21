@@ -240,6 +240,36 @@
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1045.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1046">1046</a></td>
+                <td align="center">Tempo de Jogo</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1046.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1047">1047</a></td>
+                <td align="center">Tempo de Jogo com Minutos</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1047.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1048">1048</a></td>
+                <td align="center">Aumento de Salário</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1048.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1049">1049</a></td>
+                <td align="center">Animais</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1049.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1050">1050</a></td>
+                <td align="center">DDD</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1050.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
         </table>
 </details>
 <!-- Java -->
