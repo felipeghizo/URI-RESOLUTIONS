@@ -289,6 +289,12 @@
                 <td align="center">✅</td>
             </tr>
 	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1061">1061</a></td>
+                <td align="center">Tempo de um evento</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1061.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1064">1064</a></td>
                 <td align="center">Positivos e Média</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1064.txt">Code</a></td>
