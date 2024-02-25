@@ -390,6 +390,54 @@
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1118">1118</a></td>
+                <td align="center">Várias Notas Com Validação</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1118.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">Grenais</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">Múltiplos de 13</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">Resto da divisão</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">PUM</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">Quadrado e ao cubo</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">Sequência Lógica</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center">Sequência Lógica 2</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
         </table>
 </details>
 <!-- Java -->
