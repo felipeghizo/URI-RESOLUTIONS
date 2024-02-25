@@ -397,45 +397,45 @@
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1131">1131</a></td>
                 <td align="center">Grenais</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1131.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1132">11321</a></td>
                 <td align="center">Múltiplos de 13</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1132.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1133">1133</a></td>
                 <td align="center">Resto da divisão</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1133.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1142">1142</a></td>
                 <td align="center">PUM</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1142.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1143">1143</a></td>
                 <td align="center">Quadrado e ao cubo</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1143.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1144">1144</a></td>
                 <td align="center">Sequência Lógica</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1144.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
-                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1117">1117</a></td>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1145">1145</a></td>
                 <td align="center">Sequência Lógica 2</td>
-                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1117.txt">Code</a></td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1145.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
         </table>
