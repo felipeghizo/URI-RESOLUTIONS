@@ -438,6 +438,18 @@
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1145.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1146">1146</a></td>
+                <td align="center">Sequências Crescentes</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1146.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1149">1149</a></td>
+                <td align="center">Somando Inteiros Consecutivos</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1149.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
         </table>
 </details>
 <!-- Java -->
