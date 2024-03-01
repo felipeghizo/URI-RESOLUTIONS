@@ -570,6 +570,12 @@
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1179.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1435">1435</a></td>
+                <td align="center">Matriz Quadrada I</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1435.txt">Code</a></td>
+                <td align="center">❌</td>
+            </tr>
         </table>
 </details>
 <!-- Java -->
