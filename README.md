@@ -234,6 +234,66 @@
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1020.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
+            <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1021">1021</a></td>
+                <td align="center">Notas e Moedas</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1021.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1035">1035</a></td>
+                <td align="center">Teste de Seleção 1</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1035.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1036">1036</a></td>
+                <td align="center">Fórmula de Bhaskara</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1036.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1037">1037</a></td>
+                <td align="center">Intervalo</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1037.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+           <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1038">1038</a></td>
+                <td align="center">Lanche</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1038.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+           <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1040">1040</a></td>
+                <td align="center">Média 3</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1040.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+           <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1041">1041</a></td>
+                <td align="center">Coordenadas de um Ponto</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1041.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+           <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1042">1042</a></td>
+                <td align="center">Sort Simples</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1042.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+           <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1043">1043</a></td>
+                <td align="center">Triângulo</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1043.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+           <tr>
+                <td align="center"><a href="https://www.beecrowd.com.br/judge/en/problems/view/1044">1044</a></td>
+                <td align="center">Múltiplos</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1044.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
 	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1045">1045</a></td>
                 <td align="center">Tipos de Triângulos</td>
@@ -283,6 +343,12 @@
                 <td align="center">✅</td>
             </tr>
 	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1059">1059</a></td>
+                <td align="center">Números Pares</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1059.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1060">1060</a></td>
                 <td align="center">Números Positivos</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1060.txt">Code</a></td>
@@ -313,6 +379,12 @@
                 <td align="center">✅</td>
             </tr>
 	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1067">1067</a></td>
+                <td align="center">Números Ímpares</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1067.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1070">1070</a></td>
                 <td align="center">Seis números ímpares</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1070.txt">Code</a></td>
@@ -331,9 +403,39 @@
                 <td align="center">✅</td>
             </tr>
 	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1073">1073</a></td>
+                <td align="center">Quadrado de Pares</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1073.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1074">1074</a></td>
+                <td align="center">Par ou Ímpar</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1074.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1075">1075</a></td>
+                <td align="center">Resto 2</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1075.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1078">1078</a></td>
+                <td align="center">Tabuada</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1078.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1079">1079</a></td>
                 <td align="center">Médias Ponderadas</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1079.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1080">1080</a></td>
+                <td align="center">Maior e Posição</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1080.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
@@ -367,6 +469,12 @@
                 <td align="center">✅</td>
             </tr>
 	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1099">1099</a></td>
+                <td align="center">Soma de Ímpares Consecutivos II</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1099.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1101">1101</a></td>
                 <td align="center">Sequência de Números e Soma</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1101.txt">Code</a></td>
@@ -376,6 +484,18 @@
                 <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1113">1113</a></td>
                 <td align="center">Crescente e Decrescente</td>
                 <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1113.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1114">1114</a></td>
+                <td align="center">Senha Fixa</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1114.txt">Code</a></td>
+                <td align="center">✅</td>
+            </tr>
+	    <tr>
+                <td align="center"><a href="https://judge.beecrowd.com/pt/problems/view/1115">1115</a></td>
+                <td align="center">Quadrante</td>
+                <td align="center"><a href="https://github.com/felipeghizo/Exercicios_URI/blob/main/java/URI-1115.txt">Code</a></td>
                 <td align="center">✅</td>
             </tr>
 	    <tr>
